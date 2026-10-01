@@ -31,11 +31,28 @@ The directory is designed to be lightweight, fast, and easy to use on desktop, t
 
 ## Data Source
 
-The fee information has been compiled from the supplied Gujarat PG medical fee document:
+Fee data is sourced from the official website of the
+**Admission Committee for Professional Post Graduate Medical Courses (ACPPGMEC), Gujarat**.
 
-`GUJ PG FEES 25.pdf`
+Official website:
+https://www.medadmgujarat.org/
 
-The website presents the information in a searchable format for convenience.
+The data presented on this website is based on the official
+PG MD/MS/Diploma fee information published by ACPPGMEC for
+Gujarat State medical admissions.
+
+This website is an independent, user-friendly presentation of
+the publicly available fee information and is not affiliated
+with or endorsed by ACPPGMEC or the Government of Gujarat.
+
+## Disclaimer
+
+This website is an independent informational tool and is not
+the official website of ACPPGMEC or the Government of Gujarat.
+
+Fees may change between admission cycles. Always verify the
+latest fee structure and admission information on the official
+ACPPGMEC website before making any admission or financial decision.
 
 ## Important
 
