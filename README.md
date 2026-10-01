@@ -2,6 +2,18 @@
 
 A simple, searchable directory of postgraduate medical college fees across Gujarat.
 
+# Gujarat PG Medical Fees
+
+> A simple, searchable directory of postgraduate medical college fees across Gujarat.
+
+## 🌐 Live Website
+
+**[Open Gujarat PG Medical Fees →](https://omniblessing.github.io/Guj-Fees/)**
+
+Search and compare Government and Management quota fees by college, specialty, course, and fee.
+
+---
+
 ## About
 
 This website makes it easier for NEET-PG aspirants to find and compare PG medical college fees without having to search through lengthy PDF documents.
@@ -28,6 +40,8 @@ The directory is designed to be lightweight, fast, and easy to use on desktop, t
 - ⚡ Lightweight static website
 - 🚫 No login or account required
 - 🌐 Can be hosted using GitHub Pages
+
+
 
 ## Data Source
 
